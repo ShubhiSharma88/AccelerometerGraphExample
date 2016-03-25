@@ -1,4 +1,4 @@
-# AccelerometerGraphExample
+# Plotting Accelerometer Graph On Android 
 Plotting accelerometer data in real time and saving it in a text file.
 Uses Graph View library to create line graphs.
 Uses SensorManager of android apis to get sensor data.
